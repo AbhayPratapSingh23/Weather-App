@@ -1,11 +1,15 @@
 📌 Weather App
+<br>
 
 🌐 Live Demo: [https://fanciful-macaron-d3db32.netlify.app/]
+<br>
 📂 GitHub Repository: [https://github.com/AbhayPratapSingh23/Weather-App]
+<br>
 
 🚀 Project Overview
 
 This Weather App is a simple yet powerful web application that provides real-time weather updates for any location. Built using HTML, CSS, and JavaScript, it integrates with a weather API to fetch and display weather data dynamically.
+<br>
 
 🛠 Technologies Used
 
@@ -17,6 +21,7 @@ JavaScript (ES6) – Fetching and handling API data
 
 Weather API – Fetching real-time weather details
 
+<br>
 
 ✨ Features
 
@@ -25,12 +30,13 @@ Weather API – Fetching real-time weather details
 ✅ 6-Day Forecast – Provides extended weather predictions
 ✅ Dynamic Background & Icons – Changes based on weather conditions
 ✅ Mobile Responsive – Works smoothly on all devices
+<br>
 
 🔗 API Integration
 
 This app uses OpenWeatherMap API (or any other weather API) to fetch live weather data.
 
-
+<br>
 
 🚀 How to Run the Project Locally
 
@@ -46,13 +52,7 @@ git clone https://github.com/your-username/weather-app.git
 
 
 
-💡 Future Enhancements
-
-Add a "Current Location" feature using Geolocation API
-
-Implement dark mode for better user experience
-
-Improve UI with animations & transitions
 
 
-Would you like me to modify this description based on your specific features or design? 🚀
+
+
